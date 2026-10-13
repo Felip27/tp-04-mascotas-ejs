@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Icono de mascota">
+  <rect width="120" height="120" rx="20" fill="#dbeafe"/>
+  <circle cx="38" cy="40" r="10" fill="#1d4ed8"/>
+  <circle cx="60" cy="32" r="10" fill="#1d4ed8"/>
+  <circle cx="82" cy="40" r="10" fill="#1d4ed8"/>
+  <path d="M36 74c0-13 11-24 24-24s24 11 24 24c0 10-8 16-24 16S36 84 36 74z" fill="#1d4ed8"/>
+</svg>

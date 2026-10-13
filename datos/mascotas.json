@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pampa",
+    "especie": "Perro",
+    "descripcion": "Mestizo mediano muy compañero, ideal para caminatas al aire libre y hogares con patio.",
+    "edad": 2,
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Mora",
+    "especie": "Gato",
+    "descripcion": "Gata tranquila y afectuosa que disfruta dormir cerca de la ventana. Se adapta a departamentos.",
+    "edad": 3,
+    "estado": "Reservada",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Chacho",
+    "especie": "Perro",
+    "descripcion": "Cachorro curioso y juguetón rescatado recientemente. Convive muy bien con niños y otros perros.",
+    "edad": 0,
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Zonda",
+    "especie": "Gato",
+    "descripcion": "Gato adulto muy dócil y silencioso, con controles veterinarios al día.",
+    "edad": 5,
+    "estado": "Adoptada",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Uma",
+    "especie": "Perro",
+    "descripcion": "Perra guardiana y cariñosa que busca una familia activa que le brinde tiempo y paseos diarios.",
+    "edad": 4,
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  }
+]

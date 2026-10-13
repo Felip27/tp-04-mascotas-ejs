@@ -1,0 +1,12 @@
+<article class="tarjeta">
+    <h1><%= mascota.nombre %></h1>
+    <img src="<%= mascota.imagen %>" alt="Imagen de <%= mascota.nombre %>, <%= mascota.especie %> en estado <%= mascota.estado %>">
+    <p><strong>Identificador:</strong> <%= mascota.id %></p>
+    <p><strong>Especie:</strong> <%= mascota.especie %></p>
+    <p><strong>Edad:</strong> <%= mascota.edad %> años</p>
+    <p><strong>Estado:</strong> <%= mascota.estado %></p>
+    <p><strong>Descripción:</strong> <%= mascota.descripcion %></p>
+    <p>
+        <a href="/mascotas" class="boton-principal">Volver al listado de mascotas</a>
+    </p>
+</article>
